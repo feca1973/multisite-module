@@ -1,6 +1,6 @@
 {
-  "name": "@ax2/multisite-module",
-  "version": "0.2.0",
+  "name": "@feca1973/multisite-module",
+  "version": "0.2.1",
   "description": "Multisite features for your Nuxt project",
   "license": "MIT",
   "contributors": [
@@ -9,9 +9,10 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/ax2inc/multisite-module",
+  "repository": "https://github.com/feca1973/multisite-module",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry":"https://npm.pkg.github.com/"
   },
   "scripts": {
     "dev": "nuxt test/fixture",
