@@ -5,7 +5,7 @@
   "license": "MIT",
   "contributors": [
     {
-      "name": "Paul Gascou-Vaillancourt <paul@ax2.ca>"
+      "name": "Pal Ferenc <feca@pontez.hu>"
     }
   ],
   "main": "lib/module.js",
