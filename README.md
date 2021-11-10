@@ -26,8 +26,8 @@ This module helps you bring multisite features to your Nuxt project. Here are th
 - Install the module with your favorite package manager.
 
 ```sh
-yarn add @ax2/multisite-module
-# Or npm i @ax2/multisite-module
+yarn add @feca1973/multisite-module
+# Or npm i @feca1973/multisite-module
 ```
 
 - Add `@ax2/multisite-module` to `modules` section of `nuxt.config.js`.
@@ -37,7 +37,7 @@ yarn add @ax2/multisite-module
 
 {
   modules: [
-    '@ax2/multisite-module',
+    '@feca1973/multisite-module',
  ],
 }
 ```
